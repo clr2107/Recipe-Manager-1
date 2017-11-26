@@ -1,7 +1,8 @@
 # README
- * Team Name: Ragged Jellyfishes
- * Chris Camp, Amber Mailliard, Catherine Rice, David Skaggs
- * User stories: A user can create a profile, log in, create a new recipe, see a list of all recipes, view a profile page with a list of their submitted recipes, and search for recipes by name and ingredient.
+ * Team: Ragged Jellyfishes
+ * Members: Chris Camp, Amber Mailliard, Catherine Rice, David Skaggs
+ * Dev Bootcamp Client Project 
+ * User stories: Users can create a profile, create a new recipe, view a list of all recipes, view their profile page with a list of submitted recipes, rate recipes, and search for recipes by name and ingredient.
 
 # Build a Client Project
 
