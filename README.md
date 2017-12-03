@@ -2,7 +2,7 @@
  * Team: Ragged Jellyfishes
  * Members: Chris Camp, Amber Mailliard, Catherine Rice, David Skaggs
  * Dev Bootcamp Client Project 
- * User stories: Users can create a profile, create a new recipe, view a list of all recipes, view their profile page with a list of submitted recipes, rate recipes, and search for recipes by name and ingredient.
+ * This application is a recipe organizer. A user can create a new recipe, view a list of all of their saved recipes, rate other users' recipes, and search for recipes by name and ingredient.
 
 # Build a Client Project
 
