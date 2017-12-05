@@ -26,8 +26,12 @@ p, li, #recipes, td {
   padding-left: 20px;
 }
 
-#nav-mobile li a{
+#nav-mobile li a {
   color: white;
+}
+
+#nav-mobile li a:hover {
+  color: Red;
 }
 
 #spaghetti {

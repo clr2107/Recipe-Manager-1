@@ -1,11 +1,9 @@
-<h3>My Recipes</h3>
-<ul>
+<h3>My Saved Recipes</h3>
 <button class="btn waves-effect teal"><%= link_to 'Add New Recipe', new_recipe_path %></button>
-<br>
-<br>
-<%@user_recipes.each do |recipe|%>
-<br>
-  <li><%=recipe.name%> <%= link_to 'More info', recipe%></li>
-<br>
-<%end%>
+<ul>
+  <%@user_recipes.each do |recipe|%>
+    <br>
+      <li><%= link_to recipe.name, recipe%> </li>
+    <br>
+  <%end%>
 </ul>
