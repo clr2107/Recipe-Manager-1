@@ -5,5 +5,9 @@ class WelcomeController < ApplicationController
     @recipes = Recipe.all
 
   end
+
+  def about
+
+  end
 end
 
