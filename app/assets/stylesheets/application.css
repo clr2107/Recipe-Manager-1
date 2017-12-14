@@ -17,6 +17,7 @@ p, li, #recipes, td {
     font-size: 18px;
 }
 
+
 ul {
   line-height: 150%;
 }
@@ -26,12 +27,21 @@ body {
 }
 
 
+#recipes h5 {
+  text-align: center;
+}
+
+#welcome-subhead {
+  color: Red;
+  font-family: Times;
+}
+
 #nav-mobile li {
   padding-top: 20px;
 }
 
 .material-icons {
-  padding-left: 20px;
+  padding-left: 15px;
 }
 
 #nav-mobile li a {
@@ -45,6 +55,8 @@ body {
 #spaghetti {
   display: block;
   margin: auto;
+  padding: 10px;
+  border: 2px solid grey;
 }
 
 h3 {
@@ -67,5 +79,18 @@ table th, table td {
 
 a:visited {
   color: LightBlue;
+}
+
+.homepage .card-body .btn {
+  background-color: LightBlue;
+}
+
+#welcome-header {
+  color: black;
+  text-shadow: 2px 2px grey;
+}
+
+.nav-wrapper {
+  background-color: DarkBlue;
 }
 
