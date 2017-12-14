@@ -17,6 +17,14 @@ p, li, #recipes, td {
     font-size: 18px;
 }
 
+ul {
+  line-height: 150%;
+}
+
+body {
+  background-color: #efebe9;
+}
+
 
 #nav-mobile li {
   padding-top: 20px;
